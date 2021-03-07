@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'fostboit';
+  src: url(/fonts/FOSTBOIT.otf?c0c5d6d51f95ab28015bc9939e8bc0eb);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'fostbold';
+  src: url(/fonts/FOSTBOLD.otf?acf49e6097008ad361cd2a50adcd24c9);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'fostbook';
+  src: url(/fonts/FOSTBOOK.otf?6d6e2445840ccf6f2a1a4debbc928f44);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'fostdemi';
+  src: url(/fonts/FOSTDEMI.otf?4166344b754849378157572b4461ed84);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'fostexbd';
+  src: url(/fonts/FOSTEXBD.otf?97abbbbf94e5842654243e0020cf7955);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'fostlight';
+  src: url(/fonts/FOSTLGHT.otf?1e0a5fa4cf4a8e733ebc600ce82189a2);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'fostbmdm';
+  src: url(/fonts/FOSTMEDM.otf?e6e6e543a616de86a36fa2d0ae177e1a);
+  font-weight: normal;
+  font-style: normal;
+}
